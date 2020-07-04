@@ -36,7 +36,7 @@
 
 5. 「Apache Server」「MySQL Server」に緑マークが付いたら各サービスが起動中であることを表しています
 
-6. https://github.com/Saki105/employee_list_php.git にアクセスし、クローンのzipファイルをダウンロード
+6. https://github.com/Saki105/employee_list_php.git にアクセスし、「Download ZIP」からダウンロード
 
 7. zipファイルを解凍し、MAMPフォルダ内"htdocs"フォルダに中身を保存
 
